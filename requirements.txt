@@ -1,0 +1,4 @@
+requests>=2.32.3
+python-dotenv>=1.0.1
+# Optional: Upstox Python SDK (v1). If unavailable, HTTP fallback is used.
+upstox-python
